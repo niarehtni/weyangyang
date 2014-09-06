@@ -1,0 +1,5 @@
+XSym
+0081
+3aaa0c565aab4106f959a74d1c20d5b3
+../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACValueTransformer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

@@ -1,0 +1,5 @@
+XSym
+0105
+0b3f791ae998c2ca9dc9051e69ef756a
+../../MessageDisplayKit/MessageDisplayKit/Classes/Controllers/XHBaseViewController/XHBaseViewController.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

@@ -1,0 +1,5 @@
+XSym
+0085
+3928e5da52ba47fd235a741fdac38df5
+../../MessageDisplayKit/MessageDisplayKit/Classes/Views/ScanningView/XHScanningView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

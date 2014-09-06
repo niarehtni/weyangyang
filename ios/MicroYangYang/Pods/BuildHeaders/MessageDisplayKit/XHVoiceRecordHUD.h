@@ -1,0 +1,5 @@
+XSym
+0091
+2a45f041a6319f84ed28608274f1eacb
+../../MessageDisplayKit/MessageDisplayKit/Classes/Views/MessageInputView/XHVoiceRecordHUD.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

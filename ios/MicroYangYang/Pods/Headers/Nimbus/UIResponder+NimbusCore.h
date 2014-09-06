@@ -1,0 +1,5 @@
+XSym
+0050
+14c32cb9f210c6d8180f1803d8b5816e
+../../Nimbus/src/core/src/UIResponder+NimbusCore.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

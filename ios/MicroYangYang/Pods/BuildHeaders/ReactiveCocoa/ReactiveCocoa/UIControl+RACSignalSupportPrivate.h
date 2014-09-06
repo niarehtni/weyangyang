@@ -1,0 +1,5 @@
+XSym
+0095
+fb19df8ccca165c2135ee6ab00d6364b
+../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/UIControl+RACSignalSupportPrivate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

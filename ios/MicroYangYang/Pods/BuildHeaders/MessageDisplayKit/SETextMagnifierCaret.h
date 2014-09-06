@@ -1,0 +1,5 @@
+XSym
+0094
+a98b097396347570fcd06c8a28626d0d
+../../MessageDisplayKit/MessageDisplayKit/Classes/Vendor/SECoreTextView/SETextMagnifierCaret.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

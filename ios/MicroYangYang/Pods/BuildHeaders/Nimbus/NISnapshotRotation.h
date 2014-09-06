@@ -1,0 +1,5 @@
+XSym
+0046
+4c46e1c84c591f841406f140497747e7
+../../Nimbus/src/core/src/NISnapshotRotation.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

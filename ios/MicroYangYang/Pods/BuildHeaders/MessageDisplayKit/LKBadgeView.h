@@ -1,0 +1,5 @@
+XSym
+0082
+c47fd49891b16390222ff5664b0131b8
+../../MessageDisplayKit/MessageDisplayKit/Classes/Vendor/LKBadgeView/LKBadgeView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

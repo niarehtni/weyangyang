@@ -1,0 +1,5 @@
+XSym
+0072
+b469f0620c18acd213f95ec3570fc319
+../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACChannel.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

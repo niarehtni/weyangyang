@@ -1,0 +1,5 @@
+XSym
+0087
+7d6f4e40c7cdd18caa6e24aac10dd0f6
+../../MessageDisplayKit/MessageDisplayKit/Classes/Views/RefreshViews/XHRefreshControl.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

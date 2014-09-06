@@ -1,0 +1,5 @@
+XSym
+0084
+5ea31903681a889738c1d220c9d7c3cb
+../../MessageDisplayKit/MessageDisplayKit/Classes/Views/ContactViews/XHContactView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,0 +1,5 @@
+XSym
+0039
+27d12a17b2182e189bbce01b87d6f1c7
+../../CustomBadge/Classes/CustomBadge.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

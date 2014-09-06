@@ -1,0 +1,5 @@
+XSym
+0050
+88106ca026eeea2fec7ecd7cc2d2280d
+../../Nimbus/src/core/src/NINavigationAppearance.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

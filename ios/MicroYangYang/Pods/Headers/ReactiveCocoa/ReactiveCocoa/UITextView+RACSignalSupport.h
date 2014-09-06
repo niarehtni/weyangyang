@@ -1,0 +1,5 @@
+XSym
+0089
+527c07880a61b70eb67957b91732e70e
+../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/UITextView+RACSignalSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

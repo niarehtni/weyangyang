@@ -1,0 +1,5 @@
+XSym
+0090
+bd943404142d4f34c7fdbb1366366978
+../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/UITextField+RACSignalSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

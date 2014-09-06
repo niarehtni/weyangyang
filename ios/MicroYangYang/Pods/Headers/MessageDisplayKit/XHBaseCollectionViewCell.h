@@ -1,0 +1,5 @@
+XSym
+0105
+9eab6f1142e9932344540f29280c042a
+../../MessageDisplayKit/MessageDisplayKit/Classes/Views/BaseCollectionViewCell/XHBaseCollectionViewCell.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

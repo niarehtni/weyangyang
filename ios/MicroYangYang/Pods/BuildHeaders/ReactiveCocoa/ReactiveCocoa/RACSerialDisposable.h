@@ -1,0 +1,5 @@
+XSym
+0081
+9ef3cfcfcf38683aeab9386d1730a5e9
+../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACSerialDisposable.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

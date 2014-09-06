@@ -1,0 +1,5 @@
+XSym
+0047
+5cd9310f07c88a6f62e696e94d32aeb7
+../../Nimbus/src/core/src/NIFoundationMethods.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

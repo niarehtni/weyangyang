@@ -1,0 +1,5 @@
+XSym
+0093
+d4a985339dd7dad968c4f0b605d42ecc
+../../MessageDisplayKit/MessageDisplayKit/Classes/Views/MessageInputView/XHMessageInputView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

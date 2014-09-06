@@ -1,0 +1,5 @@
+XSym
+0068
+5c63aaaa563daa7813514e7ffb300935
+../../MessageDisplayKit/MessageDisplayKit/Classes/Models/XHMessage.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

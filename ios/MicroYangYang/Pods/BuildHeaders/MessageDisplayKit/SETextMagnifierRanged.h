@@ -1,0 +1,5 @@
+XSym
+0095
+6d3bb4092d432a7592ff8909ee5d7e1d
+../../MessageDisplayKit/MessageDisplayKit/Classes/Vendor/SECoreTextView/SETextMagnifierRanged.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

@@ -1,0 +1,5 @@
+XSym
+0086
+0e782d380f7cc5de064833c518dc8d81
+../../Nimbus/src/attributedlabel/src/NSMutableAttributedString+NimbusAttributedLabel.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

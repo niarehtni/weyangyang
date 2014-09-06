@@ -1,0 +1,5 @@
+XSym
+0096
+2eb5af1a788b61d06db88fdaea849d20
+../../MessageDisplayKit/MessageDisplayKit/Classes/Categorys/NSString/NSString+MessageInputView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

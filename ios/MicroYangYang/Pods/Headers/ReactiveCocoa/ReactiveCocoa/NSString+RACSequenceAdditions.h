@@ -1,0 +1,5 @@
+XSym
+0091
+e9d13d034e1f592eee27f94c25c3d8da
+../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/NSString+RACSequenceAdditions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

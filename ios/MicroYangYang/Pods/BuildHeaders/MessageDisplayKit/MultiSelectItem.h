@@ -1,0 +1,5 @@
+XSym
+0117
+fa25a492a3c38f1bd1e490b06bd880e6
+../../MessageDisplayKit/MessageDisplayKit/Classes/Vendor/MultiSelectTableViewController/MultiSelect/MultiSelectItem.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

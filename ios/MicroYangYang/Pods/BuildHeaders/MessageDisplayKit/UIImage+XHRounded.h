@@ -1,0 +1,5 @@
+XSym
+0087
+9e7605aa71b096688ed1f4bc4414d10c
+../../MessageDisplayKit/MessageDisplayKit/Classes/Categorys/UIImage/UIImage+XHRounded.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

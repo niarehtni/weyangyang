@@ -1,0 +1,5 @@
+XSym
+0102
+b043125ed13f574f5895cd36872c4a65
+../../MessageDisplayKit/MessageDisplayKit/Classes/Views/NewsTemplateView/XHNewsTemplateContainerView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

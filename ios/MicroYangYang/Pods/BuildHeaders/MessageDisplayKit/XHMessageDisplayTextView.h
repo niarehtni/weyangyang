@@ -1,0 +1,5 @@
+XSym
+0102
+274e1f6b97c5e1b3cffb35eaa5a9e55e
+../../MessageDisplayKit/MessageDisplayKit/Classes/Views/MessageContentViews/XHMessageDisplayTextView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

@@ -1,0 +1,5 @@
+XSym
+0087
+91c234287cb610c515dd9a688a4461e0
+../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/UISwitch+RACSignalSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

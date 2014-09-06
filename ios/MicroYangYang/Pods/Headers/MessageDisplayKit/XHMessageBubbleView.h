@@ -1,0 +1,5 @@
+XSym
+0097
+f6be1387ff2a38f6f02c4b99b8eb1d5b
+../../MessageDisplayKit/MessageDisplayKit/Classes/Views/MessageContentViews/XHMessageBubbleView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

@@ -1,0 +1,5 @@
+XSym
+0105
+92a0886384e2c5ec6b0622d78b857cf5
+../../MessageDisplayKit/MessageDisplayKit/Classes/Categorys/UIScrollView/UIScrollView+XHkeyboardControl.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

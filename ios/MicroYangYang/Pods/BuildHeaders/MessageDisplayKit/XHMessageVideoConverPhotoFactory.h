@@ -1,0 +1,5 @@
+XSym
+0093
+a93af06f81ed2a6b5acd63d107350ffa
+../../MessageDisplayKit/MessageDisplayKit/Classes/Factorys/XHMessageVideoConverPhotoFactory.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

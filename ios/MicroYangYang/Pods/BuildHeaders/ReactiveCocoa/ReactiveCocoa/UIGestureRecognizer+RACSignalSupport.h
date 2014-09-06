@@ -1,0 +1,5 @@
+XSym
+0098
+a69747814ab90cab351bf876a47a4180
+../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/UIGestureRecognizer+RACSignalSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

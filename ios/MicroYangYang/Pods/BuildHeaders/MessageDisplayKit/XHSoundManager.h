@@ -1,0 +1,5 @@
+XSym
+0085
+164607599c213c195540b79b7022eba4
+../../MessageDisplayKit/MessageDisplayKit/Classes/Vendor/XHPathCover/XHSoundManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

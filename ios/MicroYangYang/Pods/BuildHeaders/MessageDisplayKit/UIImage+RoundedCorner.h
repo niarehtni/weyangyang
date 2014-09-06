@@ -1,0 +1,5 @@
+XSym
+0091
+b32d38186c22fe018950da9973715940
+../../MessageDisplayKit/MessageDisplayKit/Classes/Categorys/UIImage/UIImage+RoundedCorner.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

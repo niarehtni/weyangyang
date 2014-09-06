@@ -1,0 +1,5 @@
+XSym
+0085
+1f8e20735286cce376c6156f60b57676
+../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/NSObject+RACDescription.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

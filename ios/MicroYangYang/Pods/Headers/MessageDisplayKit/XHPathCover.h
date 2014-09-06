@@ -1,0 +1,5 @@
+XSym
+0082
+c92595b58448f08c26f2e77f44fd47ec
+../../MessageDisplayKit/MessageDisplayKit/Classes/Vendor/XHPathCover/XHPathCover.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

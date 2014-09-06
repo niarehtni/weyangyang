@@ -1,0 +1,5 @@
+XSym
+0096
+41b1c128e9b3db27d03d293d263562b0
+../../MessageDisplayKit/MessageDisplayKit/Classes/Views/MessageContentViews/XHMessageTableView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

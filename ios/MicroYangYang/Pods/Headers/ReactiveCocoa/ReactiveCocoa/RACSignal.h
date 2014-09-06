@@ -1,0 +1,5 @@
+XSym
+0071
+bf251202ab2a01d692752bec785f6661
+../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACSignal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

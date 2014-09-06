@@ -1,0 +1,5 @@
+XSym
+0108
+437fb69c524c4ca553096ff905b343c3
+../../MessageDisplayKit/MessageDisplayKit/Classes/Views/MessageMenuViews/XHEmotionCollectionViewFlowLayout.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

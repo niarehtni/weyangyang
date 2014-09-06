@@ -1,0 +1,5 @@
+XSym
+0092
+85f590ab810d5332f238b556acdc8f79
+../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACMulticastConnection+Private.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

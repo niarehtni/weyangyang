@@ -1,0 +1,5 @@
+XSym
+0089
+6116a7aacc9d4f6df40644d0159de1a9
+../../MessageDisplayKit/MessageDisplayKit/Classes/Vendor/SECoreTextView/SECompatibility.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

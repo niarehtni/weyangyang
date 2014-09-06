@@ -1,0 +1,5 @@
+XSym
+0095
+59f451147d462d34d44395a5f11b14fe
+../../MessageDisplayKit/MessageDisplayKit/Classes/Views/MessageMenuViews/XHEmotionManagerView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

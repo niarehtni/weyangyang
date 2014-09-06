@@ -1,0 +1,5 @@
+XSym
+0074
+fe317a84974b5bd6abc6bb1513b8abf6
+../../MessageDisplayKit/MessageDisplayKit/Classes/Common/XHCaptureHelper.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

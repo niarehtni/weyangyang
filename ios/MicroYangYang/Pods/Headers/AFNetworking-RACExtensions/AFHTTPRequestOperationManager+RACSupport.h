@@ -1,0 +1,5 @@
+XSym
+0096
+a7ecc11c004ad48b0e762aa8a17f9c7d
+../../AFNetworking-RACExtensions/ReactiveAFNetworking/AFHTTPRequestOperationManager+RACSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

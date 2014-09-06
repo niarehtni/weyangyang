@@ -1,0 +1,5 @@
+XSym
+0047
+c827232c8866466622de3a4886345152
+../../SDWebImage/SDWebImage/SDWebImageManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

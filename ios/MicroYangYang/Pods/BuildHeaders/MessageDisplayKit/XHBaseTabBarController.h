@@ -1,0 +1,5 @@
+XSym
+0109
+3af043a97c8805107e0d412adcda72f9
+../../MessageDisplayKit/MessageDisplayKit/Classes/Controllers/XHBaseTabBarController/XHBaseTabBarController.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

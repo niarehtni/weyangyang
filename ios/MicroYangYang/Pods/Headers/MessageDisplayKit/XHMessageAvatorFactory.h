@@ -1,0 +1,5 @@
+XSym
+0083
+869a309ecd0b8fbb0288e46d3613df16
+../../MessageDisplayKit/MessageDisplayKit/Classes/Factorys/XHMessageAvatorFactory.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

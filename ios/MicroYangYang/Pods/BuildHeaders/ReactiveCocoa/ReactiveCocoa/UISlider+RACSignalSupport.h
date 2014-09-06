@@ -1,0 +1,5 @@
+XSym
+0087
+fa95d37649be35e9dadd5f91b5de66fa
+../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/UISlider+RACSignalSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

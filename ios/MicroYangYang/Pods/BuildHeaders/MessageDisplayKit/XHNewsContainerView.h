@@ -1,0 +1,5 @@
+XSym
+0094
+b42127fc1a0b1bb5b83fcb53d3629e59
+../../MessageDisplayKit/MessageDisplayKit/Classes/Views/NewsTemplateView/XHNewsContainerView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

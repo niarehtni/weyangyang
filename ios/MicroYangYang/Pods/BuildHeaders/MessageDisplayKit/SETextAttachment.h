@@ -1,0 +1,5 @@
+XSym
+0090
+90974b5b947737e14f99fc4f10ef978f
+../../MessageDisplayKit/MessageDisplayKit/Classes/Vendor/SECoreTextView/SETextAttachment.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

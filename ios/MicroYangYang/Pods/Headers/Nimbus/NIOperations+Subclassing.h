@@ -1,0 +1,5 @@
+XSym
+0052
+1c1d3123a28e88da8abfff805118d3b9
+../../Nimbus/src/core/src/NIOperations+Subclassing.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

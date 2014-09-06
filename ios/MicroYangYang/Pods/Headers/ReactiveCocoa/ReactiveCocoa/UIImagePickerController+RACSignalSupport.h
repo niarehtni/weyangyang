@@ -1,0 +1,5 @@
+XSym
+0102
+e977de989a500a56fe040d47cd249939
+../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/UIImagePickerController+RACSignalSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

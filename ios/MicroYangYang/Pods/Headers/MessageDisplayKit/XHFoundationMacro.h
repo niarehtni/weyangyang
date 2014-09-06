@@ -1,0 +1,5 @@
+XSym
+0075
+4beee005180d235b7347766bf9160130
+../../MessageDisplayKit/MessageDisplayKit/Classes/Macro/XHFoundationMacro.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

@@ -1,0 +1,5 @@
+XSym
+0087
+4bd1f772ad2f36abbe0debb0bacff4b1
+../../MessageDisplayKit/MessageDisplayKit/Classes/Categorys/UIView/UIView+XHBadgeView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

@@ -1,0 +1,5 @@
+XSym
+0090
+b0c088b17184814107a29fefe84a13a7
+../../MessageDisplayKit/MessageDisplayKit/Classes/Views/RefreshViews/XHRefreshCircleView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

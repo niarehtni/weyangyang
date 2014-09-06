@@ -1,0 +1,5 @@
+XSym
+0097
+10ee075f5c2e1e74c4a0f98fd323aa97
+../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/UISegmentedControl+RACSignalSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

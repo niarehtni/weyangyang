@@ -1,0 +1,5 @@
+XSym
+0086
+f5c02a631aca85da415c3f26bd0639fc
+../../MessageDisplayKit/MessageDisplayKit/Classes/Vendor/SECoreTextView/SELineLayout.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
